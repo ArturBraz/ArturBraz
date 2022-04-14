@@ -1,5 +1,6 @@
 ### Olá 😄👋
-
+ Meu nome é Artur Braz estou cursando Analise e Desenvolvimento de Sistemas e buscando estagio ou vagas de emprego como desenvolvedor WEB.
+ Atualmente estou aprendendo HTML,CSS e JS
 <!--
 **ArturBraz/ArturBraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-imdias
 
 <div align="center">
   <a href="https://github.com/ArturBraz">
