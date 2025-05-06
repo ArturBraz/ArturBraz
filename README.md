@@ -1,7 +1,7 @@
 ### Olá 😄👋
  Meu nome é Artur Braz estou formado em Analise e Desenvolvimento de Sistemas e buscando vagas de emprego como desenvolvedor WEB.
  <br>
- Atualmente estou aprendendo HTML,CSS e JS
+ Atualmente estou aprendendo Nodejs e React.
 <!--
 **ArturBraz/ArturBraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
