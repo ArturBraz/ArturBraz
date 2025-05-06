@@ -1,5 +1,5 @@
 ### Olá 😄👋
- Meu nome é Artur Braz estou cursando Analise e Desenvolvimento de Sistemas e buscando estagio ou vagas de emprego como desenvolvedor WEB.
+ Meu nome é Artur Braz estou formado em Analise e Desenvolvimento de Sistemas e buscando vagas de emprego como desenvolvedor WEB.
  <br>
  Atualmente estou aprendendo HTML,CSS e JS
 <!--
