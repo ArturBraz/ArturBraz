@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </div>
 <div style="display: inline_block"><br>
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,tailwind,docker)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,styledcomponents,postgres,mysql,sqlite,nodejs,docker)](https://skillicons.dev)
  
 </div>
   
